@@ -41,10 +41,6 @@ Follow these steps to apply custom icons to your folders:
 
 If you'd like to contribute to Pexelicons, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 - For inquiries, reach out via my GitHub profile: [https://github.com/mrjfsd](https://github.com/mrjfsd)
