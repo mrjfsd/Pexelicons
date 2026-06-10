@@ -1,4 +1,4 @@
-# <a href="https://mrjfsd.github.io/Pexelicons" target="_blank">Pexelicons</a>
+# <a href="https://github.com/mrjfsd/Pexelicons" target="_blank">Pexelicons</a>
 
 ![Pexelicons Logo](assets/images/Websitescreenshots.png)
 
